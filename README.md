@@ -9,5 +9,5 @@ This is a REST API project developed using Spring, Spring Boot, Hibernate, and M
 - **Hibernate**: Integrates Hibernate ORM for mapping Java objects to database tables, providing seamless data persistence and retrieval.
 - **MySQL**: Uses MySQL as the relational database management system for storing and managing data efficiently.
 - **RESTful API**: Implements a RESTful architecture to expose endpoints for performing CRUD operations on resources.
-- **Swagger UI**: Includes Swagger UI for interactive API documentation, making it easy for developers to explore and test endpoints.
+
 
